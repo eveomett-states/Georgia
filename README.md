@@ -71,33 +71,58 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `NHPIVAP`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population in 2020 Census
 - `OTHERVAP`: Other race, non-hispanic, voting age population in 2020 Census
 - `2MOREVAP`: Two or more races, non-hispanic, voting age population in 2020 Census
-- `AGR18D`:  Number of votes for 2018 Democratic Commissioner of Agriculture
-- `AGR18R`:  Number of votes for 2018 Republican Commissioner of Agriculture
+- `AGR18D`: Number of votes for 2018 Democratic Commissioner of Agriculture candidate
+- `AGR18R`: Number of votes for 2018 Republican Commissioner of Agriculture candidate
+- `AGR22D`: Number of votes for 2022 Democratic Commissioner of Agriculture candidate
+- `AGR22R`: Number of votes for 2022 Republican Commissioner of Agriculture candidate
+- `AGR22O`: Number of votes for 2022 other party's Commissioner of Agriculture candidate
 - `ATG18D`: Number of votes for 2018 Democratic attorney general candidate
 - `ATG18R`: Number of votes for 2018 Republican attorney general candidate
+- `ATG22D`: Number of votes for 2022 Democratic attorney general candidate
+- `ATG22R`: Number of votes for 2022 Republican attorney general candidate
+- `ATG22O`: Number of votes for 2022 other party's attorney general candidate
 - `GOV18D`: Number of votes for 2018 Democratic gubernatorial candidate
 - `GOV18R`: Number of votes for 2018 Republican gubernatorial candidate
 - `GOV18O`: Number of votes for 2018 other party's gubernatorial candidate
-- `INS18D`: Number of votes for 2018 Democratic Commissioner of Insurance
-- `INS18O`: Number of votes for 2018 other party's Commissioner of Insurance
-- `INS18R`: Number of votes for 2018 Republican Commissioner of Insurance
-- `LAB18D`: Number of votes for 2018 Democratic Commissioner of Labor
-- `LAB18R`: Number of votes for 2018 Republican Commissioner of Labor
-- `LTG18D`: Number of votes for 2018 Democratic Lieutenant Governor
-- `LTG18R`: Number of votes for 2018 Republican Lieutenant Governor
-- `PRE16D`: Number of votes for 2016 Democratic President
-- `PRE16O`: Number of votes for 2016 other party's  President
-- `PRE16R`: Number of votes for 2016 Republican President
-- `PSC16O`: Number of votes for 2016 other party's Public Service Commissioner
-- `PSC16R`: Number of votes for 2016 Republican Public Service Commissioner
-- `PSC18D`: Number of votes for 2018 Democratic Public Service Commissioner
-- `PSC18O`: Number of votes for 2018 other party's Public Service Commissioner
-- `PSC18R`: Number of votes for 2018 Republican Public Service Commissioner
-- `SOS18D`: Number of votes for 2018 Democratic Secretary of State
-- `SOS18R`: Number of votes for 2018 Republican Secretary of State
-- `SOS18O`: Number of votes for 2018 other party's Secretary of State
-- `SPI18D`: Number of votes for 2018 Democratic Superintendent of Public Instruction
-- `SPI18R`: Number of votes for 2018 Republican Superintendent of Public Instruction
-- `USS20D`: Number of votes for 2020 Democratic senate candidate
-- `USS20R`: Number of votes for 2020 Republican senate candidate
-- `USS20O`: Number of votes for 2020 other party's senate candidate
+- `GOV22D`: Number of votes for 2022 Democratic gubernatorial candidate
+- `GOV22R`: Number of votes for 2022 Republican gubernatorial candidate
+- `GOV22O`: Number of votes for 2022 other party's gubernatorial candidate
+- `INS18D`: Number of votes for 2018 Democratic Commissioner of Insurance candidate
+- `INS18R`: Number of votes for 2018 Republican Commissioner of Insurance candidate
+- `INS18O`: Number of votes for 2018 other party's Commissioner of Insurance candidate
+- `INS22D`: Number of votes for 2022 Democratic Commissioner of Insurance candidate
+- `INS22R`: Number of votes for 2022 Republican Commissioner of Insurance candidate
+- `LAB18D`: Number of votes for 2018 Democratic Commissioner of Labor candidate
+- `LAB18R`: Number of votes for 2018 Republican Commissioner of Labor candidate
+- `LAB22D`: Number of votes for 2022 Democratic Commissioner of Labor candidate
+- `LAB22R`: Number of votes for 2022 Republican Commissioner of Labor candidate
+- `LAB22O`: Number of votes for 2022 other party's Commissioner of Labor candidate
+- `LTG18D`: Number of votes for 2018 Democratic Lieutenant Governor candidate
+- `LTG18R`: Number of votes for 2018 Republican Lieutenant Governor candidate
+- `LTG22D`: Number of votes for 2022 Democratic Lieutenant Governor candidate
+- `LTG22R`: Number of votes for 2022 Republican Lieutenant Governor candidate
+- `LTG22O`: Number of votes for 2022 other party's Lieutenant Governor candidate
+- `PRE16D`: Number of votes for 2016 Democratic President candidate
+- `PRE16O`: Number of votes for 2016 other party's  President candidate
+- `PRE16R`: Number of votes for 2016 Republican President candidate
+- `PSC16O`: Number of votes for 2016 other party's Public Service Commissioner candidate
+- `PSC16R`: Number of votes for 2016 Republican Public Service Commissioner candidate
+- `PSC18D`: Number of votes for 2018 Democratic Public Service Commissioner candidate
+- `PSC18O`: Number of votes for 2018 other party's Public Service Commissioner candidate
+- `PSC18R`: Number of votes for 2018 Republican Public Service Commissioner candidate
+- `SOS18D`: Number of votes for 2018 Democratic Secretary of State candidate
+- `SOS18R`: Number of votes for 2018 Republican Secretary of State candidate
+- `SOS18O`: Number of votes for 2018 other party's Secretary of State candidate
+- `SOS22D`: Number of votes for 2022 Democratic Secretary of State candidate
+- `SOS22R`: Number of votes for 2022 Republican Secretary of State candidate
+- `SOS22O`: Number of votes for 2022 other party's Secretary of State candidate
+- `SPI18D`: Number of votes for 2018 Democratic Superintendent of Public Instruction candidate
+- `SPI18R`: Number of votes for 2018 Republican Superintendent of Public Instruction candidate
+- `SUP22D`: Number of votes for 2022 Democratic State School Superintendent candidate
+- `SUP22R`: Number of votes for 2022 Republican State School Superintendent candidate
+- `USS16D`: Number of votes for 2016 Democratic senate candidate
+- `USS16R`: Number of votes for 2016 Republican senate candidate
+- `USS16O`: Number of votes for 2016 other party's senate candidate
+- `USS22D`: Number of votes for 2022 Democratic senate candidate
+- `USS22R`: Number of votes for 2022 Republican senate candidate
+- `USS22O`: Number of votes for 2022 other party's senate candidate
