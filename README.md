@@ -19,13 +19,17 @@ The following obtained from [Redistricting Data Hub](https://redistrictingdatahu
 
 [State Senate District data](https://redistrictingdatahub.org/dataset/2023-georgia-state-senate-plan/) as passed Dec 5, 2023
 
-[2020 election data](https://redistrictingdatahub.org/dataset/vest-2020-georgia-precinct-boundaries-and-election-results-shapefile/) (currently not working) VEST 2020 Georgia precinct and election results
+[2020 election data](https://redistrictingdatahub.org/dataset/vest-2020-georgia-precinct-boundaries-and-election-results-shapefile/) (currently not working, so not incorporated) VEST 2020 Georgia precinct and election results
 
 [2018 election data](https://redistrictingdatahub.org/dataset/vest-2018-georgia-precinct-and-election-results/) VEST 2018 Georgia precinct and election results
 
 [2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-georgia-precinct-and-election-results/) VEST 2016 Georgia precinct and election results
 
 [2020 County data](https://redistrictingdatahub.org/dataset/georgia-county-pl-94171-2020/): from 2020 Census Redistricting Data (P.L. 94-171) Shapefiles
+
+Downloaded on March 13, 2024:
+
+[2022 election data](https://redistrictingdatahub.org/dataset/georgia-2022-general-election-precinct-level-results-and-boundaries/): 2022 General Election Precinct-Level Results and Boundaries from RDH
 
 # **Processing**
 
